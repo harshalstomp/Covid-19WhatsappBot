@@ -10,3 +10,5 @@ Note: Make sure that the browser always opens in a full window for the script to
 
 
 This was my first attempt on automation xD, it was fun to implement this. PRs are appreciated.
+
+__This is the first prototype of the bot, it works absolutely fine but it has some flaws and requires various fixes and optimisation. Will be updating it soon__ 
