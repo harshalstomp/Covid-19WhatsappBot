@@ -6,8 +6,10 @@
 
 *The bot fetches data from [COVID19INDIA.ORG](https://www.covid19india.org/) using API calls.
 
-Note: Make sure that the browser always opens in a full window for the script to implement perfectly.
-
+__Note: 
+1)Make sure that the browser always opens in a full window for the script to implement perfectly.
+2)Login into your whatsapp account from your browser beforehand.
+3)Make sure that your phone is connected to the internet and is nearby for this script to work.
 
 This was my first attempt on automation xD, it was fun to implement this. PRs are appreciated.
 
