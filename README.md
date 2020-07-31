@@ -4,9 +4,9 @@
 
 *This bot behaves like a human to avoid bans.
 
-*Whatsapp API wasn't used.
-
 *The bot fetches data from [COVID19INDIA.ORG](https://www.covid19india.org/) using API calls.
 
 Note: Make sure that the browser always opens in a full window for the script to implement perfectly.
 
+
+This was my first attempt on automation xD, it was fun to implement this. PRs are appreciated.
