@@ -46,7 +46,7 @@ state = str(input('Please Enter the code of the state: '))
 interval = 2
 position = 1000,400
 position2 = 1000,500
-numbers={}
+numbers={919876543210}
 
 
 message= covid_status(state)
