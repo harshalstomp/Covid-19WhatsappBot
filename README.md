@@ -1,2 +1,3 @@
 # Covid-19WhatsappBot
-A COVID-19 Tracking Whatsapp bot.
+A simple whatsapp bot that sends COVID-19 updates to specified contacts.
+
