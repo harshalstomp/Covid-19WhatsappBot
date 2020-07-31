@@ -6,14 +6,14 @@
 
 *The bot fetches data from [COVID19INDIA.ORG](https://www.covid19india.org/) using API calls.
 
-__Note:
-1)Make sure that the browser always opens in a full window for the script to implement perfectly.
+__Note:__
+__1)Make sure that the browser always opens in a full window for the script to implement perfectly.__
 
-__2)Login into your whatsapp account from your browser beforehand.
+__2)Login into your whatsapp account from your browser beforehand.__
 
-__3)Make sure that your phone is connected to the internet and is nearby for this script to work.
+__3)Make sure that your phone is connected to the internet and is nearby for this script to work.__
 
-__4)Add the numbers in the number tuple(ex:91**********)
+__4)Add the numbers in the number tuple(ex:91**********)__
 
 
 
